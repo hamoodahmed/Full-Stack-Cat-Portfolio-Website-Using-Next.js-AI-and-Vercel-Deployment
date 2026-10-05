@@ -365,10 +365,10 @@ vercel --prod
 
 Developed with pride and craftsmanship by **A Full-Stack Software Engineer**. Open for **Full-Stack / Frontend Engineering roles** (Remote / On-site).
 
-- 🌐 **Portfolio:** [https://yourportfolio.com](https://yourportfolio.com)
-- 💼 **LinkedIn:** [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 🐙 **GitHub:** [https://github.com/your-username](https://github.com/your-username)
-- 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
+- 🌐 **Portfolio:** [https://lnkd.in/dUBUQGST](https://lnkd.in/dtC-sGbE)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/hamood-ahmed-a34748213/](https://www.linkedin.com/in/hamood-ahmed-a34748213/)
+- 🐙 **GitHub:** [https://github.com/hamoodahmed/Full-Stack-Cat-Portfolio-Website-Using-Next.js-AI-and-Vercel-Deployment]
+- 📧 **Email:** [hamoodahmed75a@gmail.com](mailto: hamoodahmed75a@gmail.com)
 
 ---
 
