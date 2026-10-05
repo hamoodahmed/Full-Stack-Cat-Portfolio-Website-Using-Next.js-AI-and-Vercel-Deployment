@@ -28,8 +28,8 @@
 
 ## 🌐 Live Demo & Preview
 
-- **🚀 Live Production URL:** [https://cat-portfolio.vercel.app](https://cat-portfolio.vercel.app) *(Deploy link)*
-- **📦 GitHub Repository:** [https://github.com/your-username/cat-portfolio](https://github.com/your-username/cat-portfolio)
+- **🚀 Live Production URL:** [https://full-stack-cat-portfolio-website-us.vercel.app/) *(Deploy link)*
+- **📦 GitHub Repository:** [https://github.com/hamoodahmed/Full-Stack-Cat-Portfolio-Website-Using-Next.js-AI-and-Vercel-Deployment.git](https://github.com/hamoodahmed/Full-Stack-Cat-Portfolio-Website-Using-Next.js-AI-and-Vercel-Deployment.git)
 - **⚡ Status:** Production Ready (Next.js 16 App Router + Turbopack)
 
 ---
