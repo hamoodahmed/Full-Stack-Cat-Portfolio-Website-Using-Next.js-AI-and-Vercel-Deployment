@@ -1,0 +1,81 @@
+# ========================================================
+# Git Ignore - Comprehensive Security & Build Configurations
+# ========================================================
+
+# 1. Environment & Secret Configuration Files (CRITICAL FOR SECURITY)
+.env*
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+!.env.example
+
+# 2. Security Keys, Certificates & Credentials (CRITICAL FOR HACKING PREVENTION)
+*.pem
+*.key
+*.cert
+*.crt
+*.pfx
+*.p12
+*.keystore
+id_rsa*
+id_ed25519*
+credentials.json
+service-account*.json
+*.secret
+*.token
+
+# 3. Dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# 4. Next.js & Build Outputs
+/.next/
+/out/
+/build
+/dist
+*.tsbuildinfo
+next-env.d.ts
+
+# 5. Vercel & Cloud Deployment Caches
+.vercel
+
+# 6. Testing & Coverage
+/coverage
+*.lcov
+.nyc_output
+
+# 7. Debug & Process Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+*.log
+
+# 8. OS System & Metadata Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+[Dd]esktop.ini
+
+# 9. IDE & Editor Specific Files
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
